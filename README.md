@@ -1,8 +1,8 @@
-# How to convert event to command in MVVM pattern in WPF TreeView
+# How to Convert Event to Command in MVVM Pattern in WPF TreeView?
 
 This repository describes how to convert event to command in MVVM pattern in [WPF TreeView](https://www.syncfusion.com/wpf-controls/treeview) (SfTreeView).
 
-The `TreeView` event can be converted into commands using Behaviors. To achieve this, create a command in the `ViewModel` class and associate it to the `TreeView` event using Behaviors.
+The `TreeView` event can be converted into commands using [Behaviors](https://devblogs.microsoft.com/dotnet/open-sourcing-xaml-behaviors-for-wpf/). To achieve this, create a command in the `ViewModel` class and associate it to the `TreeView` event using Behaviors.
 
 #### XAML
 
